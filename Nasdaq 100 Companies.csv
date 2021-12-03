@@ -1,0 +1,104 @@
+n;Company;Symbol;Weight
+1;Apple Inc;AAPL;11.715
+2;Microsoft Corp;MSFT;10.651
+3;Amazon.com Inc;AMZN;7.615
+4;Tesla Inc;TSLA;6.084
+5;NVIDIA Corp;NVDA;5.329
+6;Alphabet Inc;GOOG;3.911
+7;Alphabet Inc;GOOGL;3.663
+8;Meta Platforms Inc;FB;3.316
+9;Adobe Inc;ADBE;2.082
+10;Netflix Inc;NFLX;1.853
+11;Costco Wholesale Corp;COST;1.556
+12;Cisco Systems Inc/Delaware;CSCO;1.508
+13;Comcast Corp;CMCSA;1.493
+14;Broadcom Inc;AVGO;1.482
+15;PepsiCo Inc;PEP;1.441
+16;PayPal Holdings Inc;PYPL;1.417
+17;QUALCOMM Inc;QCOM;1.329
+18;Intel Corp;INTC;1.302
+19;Advanced Micro Devices Inc;AMD;1.253
+20;Intuit Inc;INTU;1.163
+21;Texas Instruments Inc;TXN;1.159
+22;Moderna Inc;MRNA;0.928
+23;Honeywell International Inc;HON;0.911
+24;T-Mobile US Inc;TMUS;0.886
+25;Applied Materials Inc;AMAT;0.867
+26;Starbucks Corp;SBUX;0.843
+27;Charter Communications Inc;CHTR;0.775
+28;Intuitive Surgical Inc;ISRG;0.755
+29;Amgen Inc;AMGN;0.737
+30;Automatic Data Processing Inc;ADP;0.637
+31;Analog Devices Inc;ADI;0.632
+32;Lam Research Corp;LRCX;0.63
+33;Micron Technology Inc;MU;0.617
+34;Gilead Sciences Inc;GILD;0.564
+35;Booking Holdings Inc;BKNG;0.563
+36;Mondelez International Inc;MDLZ;0.537
+37;CSX Corp;CSX;0.51
+38;Regeneron Pharmaceuticals Inc;REGN;0.437
+39;JD.com Inc ADR;JD;0.433
+40;ASML Holding NV;ASML;0.42
+41;Fiserv Inc;FISV;0.417
+42;KLA Corp;KLAC;0.407
+43;NXP Semiconductors NV;NXPI;0.386
+44;MercadoLibre Inc;MELI;0.385
+45;Marvell Technology Inc;MRVL;0.382
+46;Illumina Inc;ILMN;0.373
+47;Lululemon Athletica Inc;LULU;0.37
+48;Xilinx Inc;XLNX;0.369
+49;Autodesk Inc;ADSK;0.365
+50;Dexcom Inc;DXCM;0.355
+51;Workday Inc;WDAY;0.342
+52;Synopsys Inc;SNPS;0.339
+53;IDEXX Laboratories Inc;IDXX;0.337
+54;Atlassian Corp PLC;TEAM;0.337
+55;Exelon Corp;EXC;0.336
+56;Zoom Video Communications Inc;ZM;0.332
+57;Cadence Design Systems Inc;CDNS;0.32
+58;Vertex Pharmaceuticals Inc;VRTX;0.316
+59;Align Technology Inc;ALGN;0.315
+60;Keurig Dr Pepper Inc;KDP;0.314
+61;Marriott International Inc/MD;MAR;0.313
+62;DocuSign Inc;DOCU;0.313
+63;Microchip Technology Inc;MCHP;0.298
+64;Activision Blizzard Inc;ATVI;0.297
+65;Monster Beverage Corp;MNST;0.289
+66;O'Reilly Automotive Inc;ORLY;0.287
+67;eBay Inc;EBAY;0.286
+68;Cintas Corp;CTAS;0.284
+69;Crowdstrike Holdings Inc;CRWD;0.282
+70;Paychex Inc;PAYX;0.28
+71;Kraft Heinz Co/The;KHC;0.268
+72;Cognizant Technology Solutions Corp;CTSH;0.267
+73;American Electric Power Co Inc;AEP;0.265
+74;Ross Stores Inc;ROST;0.254
+75;Walgreens Boots Alliance Inc;WBA;0.253
+76;Baidu Inc ADR;BIDU;0.247
+77;Verisk Analytics Inc;VRSK;0.237
+78;Match Group Inc;MTCH;0.235
+79;Electronic Arts Inc;EA;0.231
+80;Biogen Inc;BIIB;0.229
+81;Copart Inc;CPRT;0.224
+82;Xcel Energy Inc;XEL;0.224
+83;ANSYS Inc;ANSS;0.223
+84;Fastenal Co;FAST;0.222
+85;NetEase Inc ADR;NTES;0.211
+86;Okta Inc;OKTA;0.201
+87;Dollar Tree Inc;DLTR;0.196
+88;Seagen Inc;SGEN;0.19
+89;PACCAR Inc;PCAR;0.189
+90;VeriSign Inc;VRSN;0.175
+91;CDW Corp/DE;CDW;0.17
+92;Pinduoduo Inc ADR;PDD;0.166
+93;Skyworks Solutions Inc;SWKS;0.163
+94;Sirius XM Holdings Inc;SIRI;0.161
+95;Cerner Corp;CERN;0.136
+96;Splunk Inc;SPLK;0.129
+97;Incyte Corp;INCY;0.098
+98;Check Point Software Technologies Ltd;CHKP;0.096
+99;Trip.com Group Ltd ADR;TCOM;0.095
+100;Peloton Interactive Inc;PTON;0.078
+101;Fox Corp;FOXA;0.075
+102;Fox Corp;FOX;0.055
+103;AstraZeneca PLC ADR;AZN;0
